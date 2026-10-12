@@ -10,6 +10,7 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 | [0016-3sum-closest](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0075-sort-colors/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,4 +35,16 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0075-sort-colors/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
