@@ -43,6 +43,7 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
@@ -52,5 +53,10 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
