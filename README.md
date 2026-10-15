@@ -44,6 +44,7 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -55,11 +56,13 @@ OCT 10 2026 TWO SUM problem solved pattern :TWO POINTERS
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
