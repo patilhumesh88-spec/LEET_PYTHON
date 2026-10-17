@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -21,6 +22,7 @@
 | [0075-sort-colors](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -42,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +83,13 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
