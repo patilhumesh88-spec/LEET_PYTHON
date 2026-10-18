@@ -1,5 +1,7 @@
-
-
+THE PATTERNS WHICH ARE DONE 
+**TWO POINTERS**
+**SLIDING WINDOW**
+**SLOW AND FAST **
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
