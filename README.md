@@ -88,6 +88,7 @@
 | [0076-minimum-window-substring](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0986-interval-list-intersections/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
