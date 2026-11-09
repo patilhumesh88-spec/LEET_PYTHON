@@ -33,6 +33,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0986-interval-list-intersections/) | Medium |
@@ -85,6 +86,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0344-reverse-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
