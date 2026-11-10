@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0986-interval-list-intersections/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0020-valid-parentheses/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -145,4 +147,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/patilhumesh88-spec/TM_CLA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
